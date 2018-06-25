@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+	int nQ = 0;
+	scanf("%d", &nQ);
+	int alturas[nQ];
+	for(int i = 0;i < nq; i++){
+		scanf("%d", alturas[i]);
+	}
+}
